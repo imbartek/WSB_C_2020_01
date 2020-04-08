@@ -1,0 +1,11 @@
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/bin/Debug/netcoreapp3.1/WSB_C_2020_01_03.deps.json
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/bin/Debug/netcoreapp3.1/WSB_C_2020_01_03.runtimeconfig.json
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/bin/Debug/netcoreapp3.1/WSB_C_2020_01_03.runtimeconfig.dev.json
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/bin/Debug/netcoreapp3.1/WSB_C_2020_01_03.dll
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/bin/Debug/netcoreapp3.1/WSB_C_2020_01_03.pdb
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.csproj.CoreCompileInputs.cache
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.AssemblyInfoInputs.cache
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.AssemblyInfo.cs
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.dll
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.pdb
+/Users/bartoszbartosiewicz/Projects/WSB_C_2020_01/WSB_C_2020_01_03/obj/Debug/netcoreapp3.1/WSB_C_2020_01_03.genruntimeconfig.cache
