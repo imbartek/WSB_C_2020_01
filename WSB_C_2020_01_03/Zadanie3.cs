@@ -24,7 +24,7 @@ namespace WSB_C_2020_Z1_03
             static void CalcB(int x, int y)
             {
                 Console.WriteLine("Wybierz jaka operacje chcesz wykonac wpisujac odpowiedni znak");
-                Console.WriteLine("+: dodawanie, -: odejmowanie");
+                Console.WriteLine("+: dodawanie, -: odejmowanie, *: mnozenie, /:dzielenie");
                 string character = Console.ReadLine();
 
                 int sum;
