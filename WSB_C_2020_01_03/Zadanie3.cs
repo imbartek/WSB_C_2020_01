@@ -8,26 +8,26 @@ namespace WSB_C_2020_Z1_03
         {
             Console.WriteLine("Podaj pierwsza liczbe");
             string first = Console.ReadLine();
-            int a = Convert.ToInt32(first);
+            float a = float.Parse(first);
 
             Console.WriteLine("Podaj druga liczbe");
             string second = Console.ReadLine();
-            int b = Convert.ToInt32(second);
+            float b = float.Parse(second);
 
-            static void Calc(int x, int y)
+            static void Calc(float x, float y)
             {
-                int c = x * y;
+                float c = x * y;
                 Console.WriteLine("Iloczyn liczb podanych przez Ciebie to: " + c);
 
             }
 
-            static void CalcB(int x, int y)
+            static void CalcB(float x, float y)
             {
                 Console.WriteLine("Wybierz jaka operacje chcesz wykonac wpisujac odpowiedni znak");
                 Console.WriteLine("+: dodawanie, -: odejmowanie, *: mnozenie, /:dzielenie");
                 string character = Console.ReadLine();
 
-                int sum;
+                float sum;
                 if (character == "+")
                 {
                     sum = x + y;
